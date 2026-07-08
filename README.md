@@ -12,6 +12,12 @@ The hardware has been designed in KiCad with emphasis on simplicity, reliability
 
 ---
 
+## 3D Render
+
+![3D Front](esp32_3d.png)
+
+---
+
 ## Features
 
 - ESP32 compatible shield interface
